@@ -30,7 +30,8 @@ If you need to modify the default configuration of your React app, you can do so
 TO use react app, follow these steps:
 
 1. Start the development server.
+  -type in the terminal (npm start)
 
-2. Open a web browser and navigate to [http://localhost:3000](http://localhost:3000) or you can type this in the command prompt (npm start) it will automatically navigate you.
+2. Open a web browser and navigate to [http://localhost:3000](http://localhost:3000) or you can just type this in the command prompt (npm start) it will automatically navigate you.
 
 3. Use the app to perform the desired actions.
