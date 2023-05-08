@@ -27,7 +27,7 @@ If you need to modify the default configuration of your React app, you can do so
 
 ## Usage
 
-TO use this app, follow these steps:
+TO use react app, follow these steps:
 
 1. Start the development server.
 
